@@ -26,4 +26,4 @@ brew install cf-build
 
 [Homebrew website]: http://brew.sh/
 [Homebrew repo]: https://github.com/Homebrew/homebrew
-[Homebrew Tap]: https://github.com/mxcl/homebrew/wiki/brew-tap
+[Homebrew Tap]: https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md
