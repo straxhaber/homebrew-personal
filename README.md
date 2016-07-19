@@ -7,7 +7,7 @@ This a [Homebrew Tap][] containing a collection of "formulae" that have not yet 
 First, add this tap to Homebrew.  This will clone the tap repository and symlink all of its formulae.
 
 ```bash
-brew tap straxhaber/tap
+brew tap straxhaber/personal
 ```
 
 Now you can work on those formulae as if they were in canonical Homebrew repository:
