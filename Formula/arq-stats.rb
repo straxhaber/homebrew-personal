@@ -2,7 +2,7 @@ class ArqStats < Formula
   desc "Report most changed files from Arq backup logs"
   homepage "https://github.com/straxhaber/arq-stats"
   url "https://github.com/straxhaber/arq-stats.git", branch: "main", using: :git
-  version "0.2.0"
+  version "0.2.1"
 
   def install
     bin.install "arq_stats.py" => "arq-stats"
